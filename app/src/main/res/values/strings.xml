@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TruckTrip</string>
+    <string name="type">Choose user</string>
+    <string name="txt_FirstName">First Name</string>
+    <string name="txt_LastName">Last Name</string>
+    <string name="txt_Id">Id</string>
+    <string name="txt_Phone">Phone</string>
+    <string name="txt_Email">Email</string>
+    <string name="txt_Address">Address</string>
+    <string name="ButtonRegistration">Registration</string>
+    <string-array name="user_type">
+        <item>Conductor</item>
+        <item>Propietario De Camion</item>
+        <item>Propietario De Carga</item>
+    </string-array>
+</resources>
