@@ -8,6 +8,7 @@
     <string name="txt_Email">Email</string>
     <string name="txt_Address">Address</string>
     <string name="ButtonRegistration">Registration</string>
+    <string name="contrase_a">Contraseña</string>
     <string-array name="user_type">
         <item>Conductor</item>
         <item>Propietario De Camion</item>

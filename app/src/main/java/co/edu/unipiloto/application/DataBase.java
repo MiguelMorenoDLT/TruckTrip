@@ -13,7 +13,7 @@ public class DataBase extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase BaseDeDatos) {
-        BaseDeDatos.execSQL("create table usuarios(userId int, Name text, LastName text, Id int primary key, Phone number, Email String, Address String)");
+        BaseDeDatos.execSQL("create table usuarios(userId int, Name text, LastName text, Id int primary key, Phone number, Email String, Address String, password String)");
     }
 
     @Override
